@@ -1,0 +1,2 @@
+PKG_CPPFLAGS=-I/home/bst/other/hcorrada/sgseq/src/intmodel/sra/sra_sdk-1.0.0-b10/itf
+PKG_LIBS=-L/home/bst/other/hcorrada/sgseq/src/intmodel/sra/lib64 -lsradb -lvdb -lklib -lkascii -lm -lz -lbz2 -ldl -lpthread

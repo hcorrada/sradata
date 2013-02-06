@@ -1,0 +1,10 @@
+Package: SRAdata
+Type: Package
+Title: Interface to SRA data API
+Version: 0.0-1
+Date: 2010-07-09
+Author: Hector Corrada Bravo
+Maintainer: <hcorrada@gmail.com>
+Depends: R (>= 2.11.0), methods, base, ShortRead
+Description: A package for interfacing to SRA data files.
+License: LGPL

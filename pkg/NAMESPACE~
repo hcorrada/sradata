@@ -1,0 +1,7 @@
+useDynLib(sra)
+
+## Export everything lacking a leading .
+exportPattern("^[^\\.]")
+
+## export the classes.
+exportClass("SRATable")
